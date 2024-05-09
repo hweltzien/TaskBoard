@@ -58,4 +58,4 @@ The user will see an "add task" button and three columns: "to do," "in progress,
  
 Please refer to the LICENSE in the repo.
 
-# [link to completed project](________________)
+# [link to completed project](https://hweltzien.github.io/TaskBoard/)
