@@ -1,7 +1,7 @@
 # Task Board 
 
 ## Description
-After utilizing web-based resources and instructional support, I learned how to ...
+After utilizing web-based resources and instructional support, I learned how to use jQuery Syntax and link Bootstrap to my stylesheet. Bootstrap provided, for example, the date picker. With jQuery, I created "task cards" that can be dragged and dropped into three lanes. The colors of the cards are dynamic, based on the due date of the task. Tasks can be added and removed, and are saved when the page reloads. 
 
 ## Table of Contents 
 
@@ -17,9 +17,10 @@ To clone the assignment, click the green button labeled, "code." Copy the URL fo
 
 ## Usage
 
-The user will see ...
+The user will see an "add task" button and three columns: "to do," "in progress," and "done." When the user click's "add task," a module opens with a form. The user can enter the date the task is due, the title of the task, and a description of the task. A task that is due today will show as yellow. A task that is past due will show as red. The task cards are draggable and can be moved from "to do" to "in progress" and finally, to "done." When the tasks are in the "done" column, the card turns white.
 
-<img src= "./assets/homePage.png" alt="screenshot">
+<img src= "./assets/images/home-page.png" alt="screenshot">
+<img src= "./assets/images/draggable-tasks.png" alt="screenshot">
 
 
 ## How-To-Guide
@@ -47,6 +48,7 @@ The user will see ...
     <li>Tutoring session with Jacob Carver</li>
     <li>Tutoring session with Sandra Smith</li>
     <li>Tutoring session with Wesley Clements</li>
+    <li>Tutoring session with Erik Hoversten</li>
     <li>Office hours with Anthony Barragan</li>
     <li>Office hours with Erik Hirsch</li>
     
